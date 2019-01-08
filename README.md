@@ -6,11 +6,11 @@ Click here to start docker container at [mybinder](https://mybinder.org/v2/gh/jf
 
 For browsing (rather than the interactive notebook in mybinder) the main notebook is holybooks.ipynb, and the PDF equivalent is holybooks.pdf
 
-### Authors
+### Author
 
-Graham Chester - grahamc2: Division of Labour, 50% share: text processing, LDA, t-SNE coding, documentation, voiceover
+Graham Chester - grahamc2: Division of Labour, Sourcing/Cleaning book data files, text processing, LDA, t-SNE coding, documentation, voiceover
 
-John Moran - jfmoran2: Division of Labour, 50% share: sourcing, cleaning, preprocessing data, documentation, voiceover, mybinder setup, repo management.
+John Moran - jfmoran2: Division of Labour, NLTK Tutorial, voiceover, mybinder setup, repo management.
 
 ## Functionality Overview
 
