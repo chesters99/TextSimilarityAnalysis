@@ -8,9 +8,9 @@ For browsing (rather than the interactive notebook in mybinder) the main noteboo
 
 ### Author
 
-Graham Chester - grahamc2: Division of Labour, Sourcing/Cleaning book data files, text processing, LDA, t-SNE coding, documentation, voiceover
+Graham Chester - grahamc2: Sourcing/Cleaning book data files, text processing, LDA, t-SNE coding, documentation, voiceover
 
-John Moran - jfmoran2: Division of Labour, NLTK Tutorial, voiceover, mybinder setup, repo management.
+John Moran - jfmoran2: NLTK Tutorial, voiceover, mybinder setup, repo management.
 
 ## Functionality Overview
 
